@@ -3,6 +3,9 @@
 	<head>
 		<meta charset=“UTF-8">
 		<title> Резюме </title>
+		<meta name="viwport" content="width=device-widht, initial-scale=1">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> 
 		<link href = "style.css" rel = "stylesheet" type = "text/css">
 		<link rel="stylesheet" href="table.css">
 		
@@ -29,7 +32,7 @@
 Увлекаюсь политикой, экоактивизмом, феминизмом. Веду блог о моих интересах в Instagram.</div>
 
 
-			<table id="other" cellspacing="20"> 
+			<table id="other" cellspacing="20" align = "center"> 
 
 <tr> 
 				<td class="notempty"><pre><b>Образование</b>
